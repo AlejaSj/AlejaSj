@@ -1,15 +1,34 @@
+EN Version 
+# 🙌🏻 Hello, Welcome to my Repos 🙌🏻
+*Today, 5/20/24, my journey begins in search of entering the IT job market*
 
-# 🙌🏻 Hola Bienvenidos a mis repos 🙌🏻
-*Hoy dia 20/5/24 Empieza mi camino en busqueda de insertarme en el mundo laborar de las IT*
+## A bit about me👦🏻
 
-## Un poco de mi👦🏻
+👋 My name is **Alejandro Sánchez** (@AlejaSj), an accountant and programmer, trying to blend both fields.
 
-👋 Mi nombre es **Alejandro Sánchez** (@AlejaSj), contador y programador, tratando de mezclar ambas ramas. 
+- Here you can see my [📁 portfolio](#)
 
-- Aqui puedes ver mi [📁 portafolio](#)
+In the repository you can find:
+- LeetCode challenges
+- FrontEnd Mentor challenges
+- My portfolio
+- More to come...
+  
+***
 
-En el repositorio podras encontrar
-- Desafios LeetCode
-- Desafios FrontEnd Mentor
+ES Version
+# 🙌🏻 Hola, Bienvenidos a mis repos 🙌🏻
+*Hoy, día 20/5/24, empieza mi camino en busca de insertarme en el mundo laboral de las IT.*
+
+## Un poco de mí 👦🏻
+
+👋 Mi nombre es **Alejandro Sánchez** (@AlejaSj), contador y programador, tratando de mezclar ambas ramas.
+
+- Aquí puedes ver mi [📁 portafolio](#)
+
+En el repositorio podrás encontrar:
+- Desafíos LeetCode
+- Desafíos FrontEnd Mentor
 - Mi portafolio
-- ire agregando...
+- Iré agregando más...
+***
