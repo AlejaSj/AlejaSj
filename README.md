@@ -1,4 +1,7 @@
-EN Version 
+[EN](#-hello-welcome-to-my-repos-)/[ES](#-hola-bienvenidos-a-mis-repos-)
+
+***
+
 # 🙌🏻 Hello, Welcome to my Repos 🙌🏻
 *Today, 5/20/24, my journey begins in search of entering the IT job market*
 
