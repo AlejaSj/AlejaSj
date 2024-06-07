@@ -30,6 +30,6 @@ ES Version
 - [🪟 Mi perfil de FrontendMentor](https://www.frontendmentor.io/profile/AlejaSj)
 - [💻 Mi perfil de LeetCode](https://leetcode.com/u/alejasj/)
 
-## Currículum
+## Resumen
 Estoy buscando una oportunidad para desarrollarme y crecer en el entorno IT. Con una sólida base en programación y desarrollo de proyectos, estoy ansioso por aplicar mis habilidades en un entorno profesional. Me interesan especialmente los proyectos que implican la creación de sistemas de gestión, aplicaciones en tiempo real y interfaces fáciles de usar. Mi objetivo es contribuir a un equipo dinámico donde pueda seguir aprendiendo, innovando y mejorando mis habilidades técnicas.
 ***
