@@ -10,6 +10,7 @@
 👋 My name is **Alejandro Sánchez** (@AlejaSj), an accountant and programmer, trying to blend both fields.
 
 - Here you can see my [📁 portfolio](#)
+- [LinkedIn](https://www.linkedin.com/in/alejandro-sanchezj/)
 - [🪟 My FrontendMentor Profile](https://www.frontendmentor.io/profile/AlejaSj)
 - [💻 My LeetCode Profile](https://leetcode.com/u/alejasj/)
 
